@@ -1,3 +1,2 @@
-/node_modules
-/package-look
+node_modules
 .env
